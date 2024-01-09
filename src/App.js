@@ -1,8 +1,9 @@
+import Template from "./Components/Template";
 
 function App() {
   return (
     <div >
-      i am yash somani
+      <Template />
     </div>
   );
 }
