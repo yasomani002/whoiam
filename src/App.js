@@ -2,7 +2,7 @@
 function App() {
   return (
     <div >
-      hello
+      i am yash somani
     </div>
   );
 }
